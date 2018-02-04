@@ -1,0 +1,15 @@
+h1 {
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    background-color: #1ea;
+    color: white;
+    text-shadow: 1.5px 1.5px black;
+    padding: 40px;
+}
+div {
+    font-family: 'ABeeZee', sans-serif;
+    font-size: 15px;
+}
+#intro {
+    font-weight: bold;
+}
